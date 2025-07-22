@@ -1,0 +1,1 @@
+{"name":"櫻坂46 生写真管理ツール","short_name":"生写真管理","description":"櫻坂46の生写真をスマホで簡単管理できるツール","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#e91e63","lang":"en","scope":"/","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
